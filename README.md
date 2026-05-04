@@ -1,6 +1,4 @@
-## Bonjour,
-
-# Je suis Claudia
+# Bonjour, Je m'appelle Claudia
 
 Bienvenue sur mon espace GitHub.
 Vous trouverez ici des projets construits avec une approche progressive vers le DevOps, en mettant l’accent sur l’automatisation, la compréhension des systèmes et la mise en production d’applications.
@@ -13,7 +11,7 @@ Vous trouverez ici des projets construits avec une approche progressive vers le 
 Spécialisation : DevOps / OPS / Cloud
 Recherche d’une alternance de 2 ans à partir de septembre 2026
 
-Mon positionnement est clair : aller au-delà du développement applicatif pour comprendre et maîtriser l’ensemble du cycle de vie d’une application, de sa conception jusqu’à son déploiement.
+Mon objectif est clair : aller au-delà du développement applicatif pour comprendre et maîtriser l’ensemble du cycle de vie d’une application.
 
 ---
 
