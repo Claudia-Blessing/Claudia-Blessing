@@ -1,17 +1,17 @@
 # Bonjour, Je m'appelle Claudia
 
 Bienvenue sur mon espace GitHub.
-Vous trouverez ici des projets construits avec une approche progressive vers le DevOps, en mettant l’accent sur l’automatisation, la compréhension des systèmes et la mise en production d’applications.
+Vous trouverez ici des projets construits avec une approche progressive vers le DevOps, en mettant l’accent sur l’automatisation et la compréhension des infrastructures IT.
 
 ---
 
 ## À propos de moi
 
 Étudiante en cycle ingénieur informatique
-Spécialisation : DevOps / OPS / Cloud
-Recherche d’une alternance de 2 ans à partir de septembre 2026
+Spécialisation : DevOps / Systèmes et réseaux / Cloud
+Je suis disponible pour une alternance de 2 ans ou un stage de 6 mois à partir de septembre 2026
 
-Mon objectif est clair : aller au-delà du développement applicatif pour comprendre et maîtriser l’ensemble du cycle de vie d’une application.
+Mon objectif est clair : comprendre  les systèmes, et les infrastructures modernes, l'automatisation et le cloud tout en développant une véritable culture DevOps.
 
 ---
 
@@ -38,6 +38,16 @@ déploiement, configuration serveur, gestion des accès, intégration continue.
 * Ansible (Infrastructure as Code, automatisation de déploiement)
 * Docker 
 * CI avec GitHub Actions
+
+### Réseaux et infrastructures 
+
+* Modèle TCP/IP et notions réseau
+* Adressage IP & subnetting
+* VLAN & segmentation réseau
+* Routage statique et routage dynamique
+* DNS / DHCP
+* Architecture réseau locale et interconnexion
+* Notions de sécurité réseau et supervision
 
 ### Développement
 
@@ -75,7 +85,7 @@ Je travaille actuellement sur des projets centrés sur :
 
 ## Ce que je recherche
 
-Une alternance en DevOps/OPS me permettant de :
+Une alternance ou un stage en DevOps / Systèmes et réseaux / Cloud me permettant de :
 
 * travailler sur des environnements réels
 * participer à des déploiements et à l’automatisation
